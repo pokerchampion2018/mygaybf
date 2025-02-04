@@ -1,0 +1,32 @@
+* {
+    font-family: "Helvetica";
+    background-color: rgb(247, 206, 233);
+
+}
+
+
+h1 {
+    color: rgb(197 93 161);
+    background-color: rgb(218, 185, 248);
+    font: 60px;
+    font-family: "Helvetica";
+    text-align: center;
+    text-shadow: 3px 3px #000000; font-size: 60px;
+  }
+
+  h2 {
+    color: rgb(197 93 161);
+    font: 30px;
+    font-family: "Helvetica";
+    text-align: left;
+  }
+
+  .image {
+    height: 400px;
+    width: 400px;
+  }
+
+  .caption {
+    font-size: 10px;
+
+  }
